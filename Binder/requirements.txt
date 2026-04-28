@@ -1,4 +1,4 @@
-traitlets>=4.3.0
+traitlets>=5.13.0
 ipython
 pandas
 vdom
